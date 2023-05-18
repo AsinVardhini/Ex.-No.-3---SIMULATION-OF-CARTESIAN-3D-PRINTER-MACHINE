@@ -51,7 +51,10 @@
 
 ![image](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/14d7d01e-afdf-47ac-8d65-e2059efaa4a7)
 
-![Uploading image.png…]()
+
+
+![image](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/be747c33-9850-4535-bceb-1bebf9243db7)
+
 
 ### Name: Asin Vardhini R
 ### Register Number: 212222100007
