@@ -73,7 +73,7 @@ Motor:
 
 Stepper motors are used to move the extruder or the build platform alone the x, y, and z axis.
 
-Y-Axis Assembly:
+### Y-Axis Assembly:
 
 ![Screenshot 2023-05-18 181906](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/6141181e-f364-4982-ad2d-32e2689bc849)
 
@@ -106,7 +106,7 @@ Y-Axis Base :
 The Y-axis base in 3D printing refers to the foundational component of a 3D printer that provides support and stability for the Y-axis movement.
 
 
-Z-Axis Assembly:
+### Z-Axis Assembly:
 
 ![image](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/be747c33-9850-4535-bceb-1bebf9243db7)
 
@@ -122,7 +122,7 @@ Motor :
 
 Stepper motors are used to move the extruder or the build platform alone the x, y, and z axis
 
-Complete-Axis Assembly:
+### Complete-Axis Assembly:
 
 ![Screenshot 2023-05-18 182436](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/30b37373-1236-42d1-acb2-45f13a79c2f8)
 
@@ -139,7 +139,7 @@ LCD :
 Spool Holder :
 Spool :
 
-Playing with Axis:
+### Playing with Axis:
 
 ![Screenshot 2023-05-18 182513](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/b343764b-30fb-4cae-9355-dadf304c9f6b)
 
