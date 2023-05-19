@@ -49,7 +49,7 @@
 
 ## OUTPUT
 
-X-Axis Assembly:
+### X-Axis Assembly:
 
 ![image](https://github.com/AsinVardhini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119417735/14d7d01e-afdf-47ac-8d65-e2059efaa4a7)
 
